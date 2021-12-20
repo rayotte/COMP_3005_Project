@@ -27,3 +27,6 @@ hs_err_pid*
 *.fdb_latexmk
 *.fls
 *.synctex.gz
+
+# vscode files
+*.vscode
